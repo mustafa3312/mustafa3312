@@ -2,4 +2,9 @@
 int main (void){
 int a,b ;
 printf("Enter an integer:") ;
+scanf("%d",&a);
+printf("Enter an integer:") ;
+scanf("%d",&b) ;
+
+
 
